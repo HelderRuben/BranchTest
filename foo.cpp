@@ -4,3 +4,4 @@ class Baz {
   Baz();
   void myMethod(boo) {};
 }
+
