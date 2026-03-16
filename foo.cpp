@@ -1,7 +1,5 @@
 #pragma once
 
-class Baz {
-  Baz();
-  void myMethod(boo) {};
+class Testclass {
+  Testclass(int bar);
 }
-
