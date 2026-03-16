@@ -1,1 +1,1 @@
-Repo to mess around with git branching
+Repo to try out git branches
