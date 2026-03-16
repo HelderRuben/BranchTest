@@ -1,2 +1,2 @@
-Repo to f*ck around with git branching
+Repo to ~~f*ck~~ no swearing in our readme!!!! around with git branching
 Isn't this stuff fun?
