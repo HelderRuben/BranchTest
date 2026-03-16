@@ -1,1 +1,2 @@
-Repo to mess around with git branching
+Repo to f*ck around with git branching
+Isn't this stuff fun?
